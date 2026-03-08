@@ -221,3 +221,12 @@ This list is maintained by [Elyan Labs](https://github.com/Scottcjn). Built with
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Scottcjn](https://github.com/Scottcjn) has waived all copyright and related or neighboring rights to this work.
+
+
+---
+
+### Part of the Elyan Labs Ecosystem
+
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+- [GitHub](https://github.com/Scottcjn)
